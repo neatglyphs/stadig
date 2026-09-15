@@ -1,0 +1,20 @@
+{
+  "name": "stadig",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Johannes Nilsson",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "devDependencies": {
+    "sass": "^1.104.1",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "swiper": "^14.2.0"
+  }
+}
